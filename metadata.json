@@ -1,0 +1,6 @@
+{
+  "name": "Rational Mind: Anti-Cocoklogi Therapy",
+  "description": "Layanan terapi kognitif dan konseling virtual berbasis psikologi klinis untuk meredakan kecemasan akibat ramalan zodiak, astrologi negatif, dan mitos takdir kosmik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
